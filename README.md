@@ -5,9 +5,9 @@ Prerequisites: Must have NodeJS and MongoDB Installed.
 
 To run.
 
-Install the repository to a folder of your choosing.
-Open a command line interface and direct its path to where you have installed the app.
-Type in "npm install" to retrieve the node modules
-(Optional)
+1. Install the repository to a folder of your choosing.
+2. Open a command line interface and direct its path to where you have installed the app.
+3.Type in "npm install" to retrieve the node modules
+3.b (Optional)
   If you dont have mongodb running as a service, go to your mongodb folder and run mongod.exe
-To run type "node app" and direct your browser to "localhost:3000".
+4.To run type "node app" and direct your browser to "localhost:3000".
